@@ -1,0 +1,12 @@
+:root {
+  --mobile-width: 375px;
+  --desktop-width: 1440px;
+  --color-white: hsl(0, 0%, 100%);
+  --color-slate-300: hsl(212, 45%, 89%);
+  --color-slate-500: hsl(216, 15%, 48%);
+  --color-slate-900: hsl(218, 44%, 22%);
+  --font-family-base: 'Outfit', sans-serif;
+  --font-size-body: 15px;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+}
